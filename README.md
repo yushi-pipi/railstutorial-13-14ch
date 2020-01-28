@@ -1,14 +1,6 @@
-# Ruby on Rails チュートリアルのサンプルアプリケーション
-
-これは、次の教材で作られたサンプルアプリケーションです。   
-[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
-[Michael Hartl](http://www.michaelhartl.com/) 著
-
-## ライセンス
-
-[Ruby on Rails チュートリアル](https://railstutorial.jp/)内にある
-ソースコードはMITライセンスとBeerwareライセンスのもとで公開されています。
-詳細は [LICENSE.md](LICENSE.md) をご覧ください。
+# Ruby on Rails チュートリアル
+３章〜1２章　開発環境　Windows
+13章〜14章　開発環境　Mac
 
 ## 使い方
 
